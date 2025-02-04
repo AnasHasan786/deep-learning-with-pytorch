@@ -1,7 +1,7 @@
 # Deep Learning with PyTorch
 
 <p align="justify">
-  Welcome to the **Deep Learning with PyTorch** repository! 🚀 This repository is a comprehensive guide to deep learning using PyTorch, covering fundamental concepts, practical implementations, and advanced techniques. It is designed to help both beginners and experienced practitioners build and optimize deep learning models efficiently.
+  Welcome to the <strong>Deep Learning with PyTorch</strong> repository! 🚀 This repository is a comprehensive guide to deep learning using PyTorch, covering fundamental concepts, practical implementations, and advanced techniques. It is designed to help both beginners and experienced practitioners build and optimize deep learning models efficiently.
 </p>
 
 <p align="center">
