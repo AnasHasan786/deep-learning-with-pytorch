@@ -63,6 +63,11 @@ This repository consists of several Jupyter notebooks, each focusing on a key co
 - Introduction to Recurrent Neural Networks (RNNs).
 - Implementing an RNN-based Question Answering System.
 - Training and evaluating the RNN model on a custom dataset.
+
+### 🔹 11. LSTM Next Word Predictor
+-  Here, I revised the core concepts of LSTM (Long Short Term Memory) neural network.
+-  Implemented a Next Word Predictor using LSTM.
+-  Made predictions with the model for multiple tokens.
   
 ---
 
